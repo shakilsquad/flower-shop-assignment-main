@@ -40,7 +40,7 @@ button{
 /* instagram-section */
 .instagram-section{
       text-align: center;
-      padding: 100px 0;
+      padding: 70px 0;
 }
 .instagram-section h2{
       color: #272727;
@@ -58,7 +58,7 @@ button{
       line-height: 30px; 
       padding: 20PX 0;
 }
-/* instagram-Img-section */
+/* future-instagram-Img-section */
 .instagram-Img-section{
       display: flex;
       justify-content: space-between;
@@ -98,4 +98,63 @@ button{
       font-size: 20px;
       font-family: lato;
       font-weight:700 ;
+}
+/* service-section */
+.service-section{
+      border-radius: 8px;
+      background: rgba(39, 39, 39, 0.05);
+      padding: 100px 0;
+      gap: 30px;
+      display: flex;
+      justify-content: space-around;
+}
+.diver{
+      text-align: center;
+      font-size: 18px;
+      font-weight: 600;
+      padding: 20px 0;
+}
+.diver p{
+      padding-top: 20px;
+} 
+/* discount-section */
+.discount{
+      background: rgba(229, 84, 115, 0.05); 
+      margin-top: 100px;
+      margin-bottom: 50px;     
+}
+.discount-section {
+      padding: 80px 0;
+      display: flex;
+      align-content: flex-start;
+      justify-content: space-around;
+      align-items: center;
+  }
+.discount-section h2{
+      color: #272727;
+      font-family: Lato;
+      font-size: 40px;
+      font-weight: 800;
+}
+.discount-section p{
+      color: rgba(39, 39, 39, 0.60);
+      text-align: center;
+      font-family: Lato;
+      font-size: 18px;
+      font-weight: 400;
+      line-height: 30px; 
+      padding: 24px 0;
+}
+.discount-detile{
+      text-align: center;
+}
+/* future-instagram-section */
+.future-instagram-section{
+      display: flex;
+      justify-content: space-around;
+      gap: 24px;
+}
+.future-instagram-section img{
+      height: 300px;
+     
 }
