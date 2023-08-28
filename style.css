@@ -1,0 +1,39 @@
+*{
+      padding: 0;
+      margin: 0;
+}
+.max-width{
+      max-width: 1140px;
+      margin: 0 auto;
+}
+header{
+      background-color: #E554731A;
+}
+.banner-section{
+      display: flex;
+      align-items: center;
+      padding-top: 30px ;
+      gap: 319px;
+}
+header h1{
+      color: #272727;
+      font-family: Lato;
+      font-size: 45px;
+      font-style: normal;
+      font-weight: 800;
+}
+header p{
+      color: rgba(39, 39, 39, 0.60);
+      font-family: Lato;
+      font-size: 15px;
+      line-height: 24px;
+      padding: 20px 0; 
+}
+button{
+      padding: 20px 43px;
+      border-radius: 8px;
+      background: #E55473;
+      border: none;
+      color: #fff;
+      font-size: 18px;
+}
