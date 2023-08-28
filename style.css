@@ -158,3 +158,32 @@ button{
       height: 300px;
      
 }
+/* <!-- Get The Latest Deals --> */
+.latest{
+
+      background-image: url("./Rectangle\ 9.png");
+      padding: 120px 0;
+      margin-bottom: 120px;
+      text-align: center;
+}
+.latest h2{
+      color: #272727;
+      font-family: Lato;
+      font-size: 40px;
+      font-weight: 800;
+}
+.latest p{
+      color: rgba(39, 39, 39, 0.60);
+      font-family: Lato;
+      font-size: 18px;
+      font-weight: 400;
+      padding: 20px 0;
+}
+.latest input{
+      width: 500px;
+      height: 64px;
+      border: none;
+      border-radius: 5px;
+      margin-right: 10px;
+      padding-left: 30px;
+}
